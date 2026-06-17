@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Vim",
+  "universe": "VI · Vim (TTY · The Terminal)",
+  "emergence": "electrical",
+  "moniker": "⟦Vim:VI:cdc4ac⟧",
+  "carbon": "vim.carbon.tiff (TIFF)",
+  "silicon": "vim.silicon.png (PNG)",
+  "seal_sha256": "af38b78d8e03d90d27837e81205c702a785562b5bede4621f97581ec7d5fbc3b",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

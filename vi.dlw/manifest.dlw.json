@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "vi",
+  "universe": "VI · vi (TTY · The Terminal)",
+  "emergence": "",
+  "moniker": "⟦vi:VI:86d503⟧",
+  "carbon": "vi.carbon.tiff (TIFF)",
+  "silicon": "vi.silicon.png (PNG)",
+  "seal_sha256": "a354ea80016b8a484bc5f436dfd119462095f28747f91c5c69c252707356ce0f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

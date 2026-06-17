@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Modal Editing",
+  "universe": "VI · Modal Editing (TTY · The Terminal)",
+  "emergence": "electrical",
+  "moniker": "⟦Modal Editing:VI:d5386b⟧",
+  "carbon": "modal-editing.carbon.tiff (TIFF)",
+  "silicon": "modal-editing.silicon.png (PNG)",
+  "seal_sha256": "805c8c9f6f6a668cddba8651a550d8d6269675e8855a9b7dde4cd9187a6b6f5f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

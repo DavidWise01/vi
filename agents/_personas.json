@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "modal-editing",
+    "name": "Modal Editing",
+    "epithet": "move-mode vs insert-mode · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Modal Editing:VI:d5386b⟧"
+  },
+  {
+    "slug": "hjkl",
+    "name": "hjkl",
+    "epithet": "motion on the home row · natural",
+    "emergence": "natural",
+    "moniker": "⟦hjkl:VI:111468⟧"
+  },
+  {
+    "slug": "vim",
+    "name": "Vim",
+    "epithet": "the descendant still running · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Vim:VI:cdc4ac⟧"
+  }
+]
